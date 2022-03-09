@@ -4,7 +4,7 @@ const precoLivros = [
        preco: 25
     },
     {
-        título: "PHP",
+        titulo: "PHP",
         preco: 15
     },
     {
